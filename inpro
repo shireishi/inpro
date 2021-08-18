@@ -115,7 +115,7 @@ create_dirs () {
 
     printf "\nCreated all directories."
     printf "\n\n"
-    tree
+    ls -l
 }
 
 #! Fix the error checking
