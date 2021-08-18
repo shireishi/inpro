@@ -1,10 +1,11 @@
 # inpro
-<hr>
 The inpro (initiate project) project is used to create the filesystem for a project by the specified language.
 
 ## Examples
-<hr>
-`inpro python BankSystem`
+```
+inpro python BankSystem
+```
+
 ```
 Directory does not exist. Creating directory.
 Directory successfully created. Continuing process.
@@ -32,8 +33,8 @@ Created all directories.
 |-- main.py
 |-- pyvenv.cfg
 |-- src
->-- tools
-    >-- __init__.py
+-- tools
+    -- __init__.py
 
 149 directories, 1103 files
 ```
