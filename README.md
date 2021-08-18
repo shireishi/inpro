@@ -1,6 +1,20 @@
 # inpro
 The inpro (initiate project) project is used to create the filesystem for a project by the specified language.
 
+## Current Language Support
+- Python
+- HTML
+- C
+- C++
+- Bash
+- Rust
+
+## TODO
+- [x] Fix the help menu
+- [ ] Add more language support
+- [ ] Design a more modular system for directory and file creation
+- [ ] Clean up the case statements
+
 ## Examples
 ```
 inpro python BankSystem
